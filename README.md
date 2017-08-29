@@ -1,7 +1,9 @@
 ## Business Plan Creation Tool for new entrepreneurs, SME's and startups
 
-* A scalable support tool for new entrepreneurs and SME’s business planning.
+* A scalable support tool for new entrepreneurs and SME’s business planning needs, developed for support organizations like; incubators, universities, banks, governments to make it available for their customers.
 * For innovative SME’s (startups) most relevant after validation phase (see: http://www.startupcommons.org/startup-development-phases.html). Prior to that business model canvas is more flexible as a primary planning tool (see: https://strategyzer.com/canvas/business-model-canvas).
 * As a application in suite of Digital Solutions for digital startup ecosystem development, Business Plan Tool connects to Digital Ecosystem Infrastructure via API's to act as a guided self planning tool for creating, maintaining and managing business plan and financial calculations and related data. 
 * The module offers scalability, measurability and connectivity compared to downloadable business plan templates, due availability, data & analytics, mandatory fields and guided process for support services, enabling efficiency increase for business advisory meetings. 
 * In addition for actual business plans, this tool is also used among students for education purposes.
+* Data users create with this tool, will be portable to users connected "my data" account and service that utilize blockchain to keep record of the data authenticity and history for the users, and will act as a verification of the data for those requesting/utilizing users data, directly from the users via Circle Pass API's. Aligned with GDPR coming to effect in May 2018: https://en.wikipedia.org/wiki/General_Data_Protection_Regulation
+* More about My Data Movement: https://www.lvm.fi/documents/20181/859937/MyData-nordic-model/2e9b4eb0-68d7-463b-9460-821493449a63?version=1.0
